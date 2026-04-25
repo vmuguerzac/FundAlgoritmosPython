@@ -12,4 +12,5 @@ radio = float(input("Ingrese radio del circulo: "))
 # invocar a la funcion para calcular el valor de area del circulo
 resultado = AreaCirculo(radio)
 print("El valor de area del circulo es: ", resultado)
+print("Fin del programa")
 
